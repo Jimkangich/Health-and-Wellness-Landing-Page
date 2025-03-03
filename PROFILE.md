@@ -1,0 +1,1 @@
+This is a test for adding a file, committing, pushing and merging.
